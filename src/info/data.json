@@ -1,0 +1,33 @@
+{
+  "stores": [
+    {
+      "name": "Store 1",
+      "hasDeliveryPartner": false
+    },
+    {
+      "name": "Store 2",
+      "hasDeliveryPartner": true
+    },
+    {
+      "name": "Store 3",
+      "hasDeliveryPartner": false
+    }
+  ],
+  "partners": [
+    {
+      "name": "Adloggs",
+      "location": "Location 1",
+      "amount": "1000"
+    },
+    {
+      "name": "Dunzo",
+      "location": "Location 2",
+      "amount": "1400"
+    },
+    {
+      "name": "Shadowfax",
+      "location": "Location 3",
+      "amount": "1200"
+    }
+  ]
+}
